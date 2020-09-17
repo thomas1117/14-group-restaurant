@@ -1,6 +1,6 @@
 # Group Project
 
-Welcome to your first group project. The point of this to have fun and to work together with your team. Below is a "writeup" from a client about what they are looking for. Even though "they" get pretty specific, you still have a lot of liberty with this so long as you get all of the required pieces in place.
+The point of this to have fun and to work together with your team. Below is a "writeup" from a client about what they are looking for. Even though "they" get pretty specific, you still have a lot of liberty with this so long as you get all of the required pieces in place.
 
 All in all, have fun... work hard... learn much.
 
@@ -56,9 +56,6 @@ Each of our food items has special notes on it and if a note matches then the ic
 
 - Make it responsive
   [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
-  [RWD Checklist](http://rwdchecklist.surge.sh/)
-
-- Deploy your project to [surge.sh](https://surge.sh/)
 
 ## Resources
 
@@ -66,6 +63,4 @@ Each of our food items has special notes on it and if a note matches then the ic
 - [Custom Restaurant API](https://obscure-tundra-54269.herokuapp.com/)
 - [The Noun Project](http://thenounproject.com/)
 - [Icon Fonts] (https://fontawesome.com/icons?d=gallery)
-- [Creative Commons Images] https://www.flickr.com/creativecommons/
-- [Flickr's Photo API](https://www.flickr.com/services/api/)
-- [Google Maps Embed API](https://developers.google.com/maps/documentation/embed/)
+- [unsplash photos](https://unsplash.com/)
