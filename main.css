@@ -1,0 +1,9 @@
+.layout {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    width: 80%;
+    background: #ddd;
+    height: 100px;
+}
