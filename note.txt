@@ -1,0 +1,9 @@
+nav
+header
+card list
+menu
+    - our story
+    - menu
+    - reservations
+food photos
+footer
